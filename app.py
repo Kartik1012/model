@@ -12,7 +12,7 @@ voice_id = "pFZP5JQG7iQjIQuC4Bku"  # Replace with your chosen voice ID
 url = f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
 headers = {
         "accept": "audio/mpeg",
-        "xi-api-key":,
+        "xi-api-key":api_key_11labs,
         "Content-Type":"application/json"
     }
 
