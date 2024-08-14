@@ -1,0 +1,7 @@
+python-dotenv
+openai
+deepgram-sdk
+streamlit
+audio_recorder_streamlit
+requests
+streamlit_float
