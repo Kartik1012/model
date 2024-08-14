@@ -7,7 +7,7 @@ import requests
 load_dotenv()
 
 
-client=OpenAI("OpenAI_API_key")
+client=OpenAI(api_key="OpenAI_API_key")
 voice_id = "pFZP5JQG7iQjIQuC4Bku"  # Replace with your chosen voice ID
 url = f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
 headers = {
