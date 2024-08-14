@@ -4,4 +4,4 @@ deepgram-sdk
 streamlit
 audio_recorder_streamlit
 requests
-streamlit_float
+streamlit_float==0.3.4
